@@ -27,6 +27,6 @@ public class person {
 
     @Override
     public String toString() {
-        return " Hello" + name +" at " + email + ". Now taht you have entered your name in our database you may retreve any other peoples contact that are in our system";
+        return " Hello " + name +" at " + email + ". Now that you have entered your name in our database you may retreve any other peoples contact that are in our system";
     }
 }
